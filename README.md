@@ -1,7 +1,8 @@
 ## Receitas
-1. Chilli con carne
-[create an anchor](#Chilli-con-carne)
-[caril](#caril)
+
+1.[Chilli con carne](#chilli-con-carne)
+2.[Caril](#caril)
+
 
 #Chilli con carne
 
