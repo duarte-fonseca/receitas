@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Receitas
+1. Chilli con carne
 
-You can use the [editor on GitHub](https://github.com/duarte-fonseca/receitas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Chilli con carne
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ingredientes:
 
-```markdown
-Syntax highlighted code block
+- 2 Latas de feijao vermelho
+- 3 latas de tomate picado
+- 1 lata grande milho doce
+- 1 kg carne picada de vaca
+- chillies
+- 1 colher de chá de cominhos
+- 1 colher de chá de canela
+- pimenta
+- 3 cebolas pequenas
+- 2 dentes de alho
 
-# Header 1
-## Header 2
-### Header 3
+Como fazer:
 
-- Bulleted
-- List
+Primeiro picar a cebola e alho pequenos e refogar juntamente com os 
+chillies. Por a carne e fritar em lume forte dirante 5 minutos. Quando 
+a carne parece já estar mais frita adicionar o molho de tomate, a 
+canela, cominhos e pimenta preta. Cozinhar em lume brando durante 90 
+mins.
 
-1. Numbered
-2. List
+Nos últimos 30 minutos adicionar o feijão e o milho.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duarte-fonseca/receitas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Caril
+teste e tal
