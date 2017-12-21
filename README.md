@@ -31,4 +31,3 @@ Nos últimos 30 minutos adicionar o feijão e o milho.
 
 
 # Caril
-teste e tal
