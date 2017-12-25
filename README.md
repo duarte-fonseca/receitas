@@ -31,3 +31,45 @@ Nos últimos 30 minutos adicionar o feijão e o milho.
 
 
 # Caril
+
+## Ingredientes:
+
+- 2 a 3 colheres de chá de acafrao das indias 
+- 1 colher de chá de canela
+- 1 colher de chá de sementes de cominhos 
+- meia colher de chá de sementes de coentros 
+- meia colher de chá de fenogreco 
+- 2 folhas de louro 
+- 6 a 8 folhas de planta de caril 
+- gengibre, quantidade de 2 ou 3 dentes de alho 
+- 2 ou 3 dentes de alho 
+- 2 ou 3 cebolas pequenas 
+- sal q.b 
+- 1 colher chá colorau 	
+- coentros 
+- carne ou vegetais como ingrediente principal
+	
+
+ 
+ 
+ 
+# Curry 
+## Ingredients:
+
+ -  2 to 3 teaspoon curcume
+ -  1 teaspoon cinammon
+ -  1 teaspoon cumin seeds
+ - 1/2 teaspoon coriander seeds
+ - 1/2 teaspoon fenugreek
+ - 2 bay leaves
+ - 6 to 8 curry leaves
+ - ginger, around 3 garlic clove size ammount
+ - 2 to 3 garlic cloves
+ - 2 to 3 small onions
+ - salt
+ - 1 teaspoon sweet paprika
+ - fresh coriander
+ - pork, chicken or vegetables such as courgette/zucchini as main ingredient
+ 
+ 
+ 
