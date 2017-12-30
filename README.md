@@ -8,16 +8,16 @@
 
 Ingredientes:
 
-- 2 Latas de feijao vermelho
-- 3 latas de tomate picado
-- 1 lata grande milho doce
-- 1 kg carne picada de vaca
+- 2 cans of kidney beans
+- 3 cans of sliced tomato 
+- 1 300g can sweet corn 
+- 1 kg minced beef 
 - chillies
-- 1 colher de chá de cominhos
-- 1 colher de chá de canela
-- pimenta
-- 3 cebolas pequenas
-- 2 dentes de alho
+- 1 teaspoon cumin seeds (grind them a bit)
+- 1 teaspoo cinnammon 
+- a bit black pepper
+- 3 small onions 
+- 2 garlic cloves 
 
 Como fazer:
 
