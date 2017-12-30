@@ -21,6 +21,9 @@ Ingredientes:
 
 Como fazer:
 
+Begin by chopping the onions, garlic and chillies into small pieces. Then heat some oil on a frying pan and when the oil starts to warmer put the onions, garlic and chillies on the oil and fry them in medium heat for around 5 minutes.
+When the onion starts to get softer add the meat and put the heat to strong and fry the meat until its no longer red. After this, lower the heat and add the three cans of tomatoes. 
+
 Primeiro picar a cebola e alho pequenos e refogar juntamente com os 
 chillies. Por a carne e fritar em lume forte dirante 5 minutos. Quando 
 a carne parece já estar mais frita adicionar o molho de tomate, a 
